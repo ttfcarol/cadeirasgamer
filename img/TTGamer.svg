@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 945.62 408.38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bf6000;
+        font-family: Armany-Bold, Armany;
+        font-size: 259.85px;
+        font-weight: 700;
+        letter-spacing: -.05em;
+        stroke-width: .75px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fbb03b;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_106);
+        filter: url(#drop-shadow-1);
+        stroke-width: .5px;
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_106" data-name="Gradiente sem nome 106" x1="-13.71" y1="199.63" x2="268.45" y2="199.63" gradientTransform="translate(-94.84 149.14) rotate(-44.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#88110d"/>
+      <stop offset=".03" stop-color="#8e1d0d" stop-opacity=".97"/>
+      <stop offset=".5" stop-color="#fdff15" stop-opacity=".5"/>
+      <stop offset=".6" stop-color="#e3c813" stop-opacity=".61"/>
+      <stop offset=".87" stop-color="#a1380e" stop-opacity=".89"/>
+      <stop offset="1" stop-color="#88000d"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".23"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path class="cls-2" d="m11.33,193.34c-14.57,60.66,26.98,110.88,30.79,115.33,35.2,41.2,92.9,58.72,144.04,45.18,62.89-16.66,105.73-77.51,107.36-131.54C297.08,104.26,104.13,8.77,103.75,9.25c-.18.23,45.24,20.77,58.97,66.63,19.92,66.55-41.21,138.77-41.28,138.73-.05-.03,25.05-33.31,30.67-85.46,1.47-13.61,7.51-69.69-13.35-78.85-25.6-11.23-77.71,54.34-98.8,85.69-14.92,22.18-23.48,35.93-28.62,57.36Z"/>
+  <text class="cls-1" transform="translate(301 318.87) scale(.64 1)"><tspan x="0" y="0">TTGamer</tspan></text>
+</svg>

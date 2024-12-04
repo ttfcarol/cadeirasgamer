@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 816 927">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_106);
+        filter: url(#drop-shadow-1);
+        stroke: #fbb03b;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_106" data-name="Gradiente sem nome 106" x1="10.67" y1="456.3" x2="791.73" y2="456.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#88110d"/>
+      <stop offset=".03" stop-color="#8e1d0d" stop-opacity=".97"/>
+      <stop offset=".5" stop-color="#fdff15" stop-opacity=".5"/>
+      <stop offset=".6" stop-color="#e3c813" stop-opacity=".61"/>
+      <stop offset=".87" stop-color="#a1380e" stop-opacity=".89"/>
+      <stop offset="1" stop-color="#88000d"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".23"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path class="cls-1" d="m173.5,196.5C27.36,288.5,12.57,468.32,11.5,484.5c-9.93,149.67,70.49,295.95,198,368,156.78,88.59,359.32,50.88,467-53,235.29-226.98,37.67-789.21,36-789-.8.1,49.46,128.63-12,246-89.21,170.35-349.92,195.23-350,195-.05-.15,114.03-17.55,226-110,29.21-24.12,149.63-123.53,126-182-28.99-71.74-259.01-42.61-361.4-21.28-72.43,15.09-115.97,25.77-167.6,58.28Z"/>
+</svg>
